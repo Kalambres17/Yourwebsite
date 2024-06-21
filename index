@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sample Blog Layout</title>
+<style>
+body {
+    font-family: Arial;
+    margin: 0px;
+}
+div.blog-page {
+    max-width: 1000px;
+    margin: 20px auto;
+}
+div.blog-content {
+    padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div
